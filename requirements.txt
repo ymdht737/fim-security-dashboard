@@ -1,1 +1,2 @@
-streamlit
+streamlit>=1.30.0
+pyarrow>=14.0.0
